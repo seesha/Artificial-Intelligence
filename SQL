@@ -1,0 +1,11 @@
+Tutorial
+https://www.youtube.com/watch?v=7Vtl2WggqOg&t=21s       one hour video
+https://www.khanacademy.org/computing/computer-programming/sql    full detailed course of above video
+https://www.edx.org/course/querying-data-transact-sql
+
+
+
+Tools
+https://www.mysql.com/products/workbench/
+http://sqlfiddle.com/
+https://www.khanacademy.org/computer-programming/new/sql
