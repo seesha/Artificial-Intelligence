@@ -2,6 +2,7 @@ Tutorial
 https://www.youtube.com/watch?v=7Vtl2WggqOg&t=21s       one hour video
 https://www.khanacademy.org/computing/computer-programming/sql    full detailed course of above video
 https://www.edx.org/course/querying-data-transact-sql
+https://www.w3schools.com/sql/sql_intro.asp
 
 
 
